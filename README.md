@@ -13,6 +13,8 @@ This is not to be confused with taking a photo with your smartphone.
 
 This is what a screenshot from your computer should look like:
 
+**DO THIS INSTEAD**
+
 Taking screenshots on both macOS (formerly known as Mac OS X) and Windows is relatively straightforward. Each operating system provides built-in tools and keyboard shortcuts for capturing screenshots.
 
 **Taking Screenshots on macOS:**
