@@ -1,6 +1,19 @@
 # Writing Good Documentation
 
-## Step 1 - Using Codeblocks
+## Step 1 - How to take screenshots
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
+
+This is not to be confused with taking a photo with your smartphone.
+
+**DON'T DO THIS**
+
+INSERt photo link here
+
+This is what a screenshot from your computer should look like.
+
+
+## Step 2 - Using Codeblocks
 
 Codeblocks in markdown make it *very easy* for tech people to **copy, paste**, and **share** code.  A good __Cloud Engineer__ uses Codeblocks whenever possible because it allows others to copy and paste their code to replicate or research issues.
 
