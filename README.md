@@ -111,13 +111,14 @@ Codeblocks in markdown make it *very easy* for tech people to **copy, paste**, a
 </html>
 ```
 
-- Make note of where the backtick button is located.
-- It should appear above the tab key, but it may vary based on your keyboard type.
+- Make note of where the backtick and pipe symbol buttons are located.
+- Their respective locations may vary based on your keyboard type.
 
 <img width="400px" src="https://github.com/gambolputty33/github-docs-example/blob/main/assets/backtick-button.png"
 />
 
-
+<img width="400px" src="https://github.com/gambolputty33/github-docs-example/blob/main/assets/pipe-symbol.png"
+/>
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
