@@ -114,9 +114,6 @@ Codeblocks in markdown make it *very easy* for tech people to **copy, paste**, a
 - Make note of where the backtick button is located.
 - It should appear above the tab key, but it may vary based on your keyboard type.
 
-<img width="400px" src="https://github.com/gambolputty33/github-docs-example/assets/142690564/b4c33ae9-9e65-4ac1-88b2-1a64075d3de0"
-/>
-
 <img width="400px" src="https://github.com/gambolputty33/github-docs-example/blob/main/assets/html-tagst.jpg"
 />
 
