@@ -114,7 +114,7 @@ Codeblocks in markdown make it *very easy* for tech people to **copy, paste**, a
 - Make note of where the backtick and pipe symbol keyboard keys are located.
 - Their respective locations may vary based on your keyboard type.
 
-<img width="400px" src="https://github.com/gambolputty33/github-docs-example/blob/main/assets/backtick-button.png"
+<img width="400px" src="assets/backtick-button.png"
 />
 
 <img width="400px" src="https://github.com/gambolputty33/github-docs-example/blob/main/assets/pipe-symbol.png"
