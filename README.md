@@ -1,10 +1,15 @@
 # Writing Good Documentation
 
+When you can, always provide a codeblock instead of a screenshot.
+If you need to take a screenshot, make sure that it isn't a photo you took with your smartphone.
+
+> There are certain cases where it's okay to take photos with your smartphone.  This is when you're showing something like a keyboard, which doesn't appear on a computer screen.  If it's rendered on your computer, it should be a screenshot.
+
 ## Step 1 - How to take screenshots
 
 A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
 
-This is not to be confused with taking a photo with your smartphone.
+This isn't to be confused with taking a photo with your smartphone.
 
 **DON'T DO THIS**
 
