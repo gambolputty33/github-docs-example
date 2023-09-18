@@ -8,7 +8,8 @@ This is not to be confused with taking a photo with your smartphone.
 
 **DON'T DO THIS**
 
-INSERt photo link here
+<img width="400px" src="assets/IMG_5122.jpeg"
+/>
 
 This is what a screenshot from your computer should look like.
 
