@@ -117,7 +117,7 @@ Codeblocks in markdown make it *very easy* for tech people to **copy, paste**, a
 <img width="400px" src="assets/backtick-button.png"
 />
 
-<img width="400px" src="https://github.com/gambolputty33/github-docs-example/blob/main/assets/pipe-symbol.png"
+<img width="400px" src="assets/pipe-symbol.png"
 />
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
