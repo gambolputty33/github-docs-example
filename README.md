@@ -11,7 +11,68 @@ This is not to be confused with taking a photo with your smartphone.
 <img width="400px" src="assets/IMG_5123.jpeg"
 />
 
-This is what a screenshot from your computer should look like.
+This is what a screenshot from your computer should look like:
+
+Taking screenshots on both macOS (formerly known as Mac OS X) and Windows is relatively straightforward. Each operating system provides built-in tools and keyboard shortcuts for capturing screenshots.
+
+**Taking Screenshots on macOS:**
+
+macOS offers several built-in options for taking screenshots:
+
+1. **Capture Entire Screen:**
+   - Press `Shift` + `Command` + `3`.
+   - The screenshot is saved as a file on your desktop by default.
+
+2. **Capture a Specific Portion of the Screen:**
+   - Press `Shift` + `Command` + `4`.
+   - Drag to select the portion of the screen you want to capture.
+   - The screenshot is saved as a file on your desktop.
+
+3. **Capture a Specific Window:**
+   - Press `Shift` + `Command` + `4`.
+   - Press the `Spacebar`.
+   - Click on the window you want to capture.
+   - The screenshot is saved as a file on your desktop.
+
+4. **Capture the Touch Bar (if applicable):**
+   - Press `Shift` + `Command` + `6`.
+   - The screenshot is saved as a file on your desktop.
+
+You can also use the "Grab" application (found in the "Utilities" folder within the "Applications" folder) for more advanced screenshot options.
+
+**Taking Screenshots on Windows:**
+
+Windows provides various methods for taking screenshots, depending on your version of Windows:
+
+1. **Capture Entire Screen:**
+   - Press the `PrtScn` (Print Screen) key.
+   - The screenshot is copied to your clipboard. You can paste it into an image editor (e.g., Paint) and save it.
+
+   OR
+
+   - Press `Windows` + `Shift` + `S` (Windows 10 and later).
+   - This opens the Snip & Sketch tool, allowing you to select a portion of the screen to capture.
+
+2. **Capture Active Window:**
+   - Press `Alt` + `PrtScn`.
+   - The screenshot of the active window is copied to your clipboard.
+
+3. **Using Snipping Tool (Windows 7):**
+   - Search for "Snipping Tool" in the Start menu.
+   - Open the Snipping Tool application and select the area you want to capture.
+   - Save the screenshot from within the Snipping Tool.
+
+4. **Using Snip & Sketch (Windows 10 and later):**
+   - Press `Windows` + `Shift` + `S` to open Snip & Sketch.
+   - Select the area you want to capture.
+   - Edit or save the screenshot using the Snip & Sketch interface.
+
+5. **Using Snipping Tool (Windows 10, but deprecated):**
+   - Search for "Snipping Tool" in the Start menu.
+   - Open the Snipping Tool application and select the area you want to capture.
+   - Save the screenshot from within the Snipping Tool.
+
+In Windows, you can also use third-party screenshot capture software for more advanced features, but the built-in methods mentioned above should cover most needs.
 
 
 ## Step 2 - Using Codeblocks
